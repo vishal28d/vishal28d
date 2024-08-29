@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Flutter/Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 
-- 🔭 I’m currently working on **HTML CSS JavaScript**
+- 🔭 I’m currently working on **Fluttet Dart Firebase**
 
-- 🌱 I’m currently learning **JavaScript, React, Java**
+- 🌱 I’m currently learning **Bloc**
 
 - 💬 Ask me about **Java, HTML, CSS, Flutter**
 
