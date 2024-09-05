@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **Bloc**
 
-- 💬 Ask me about **Java, HTML, CSS, Flutter**
+- 💬 Ask me about **C++, Dart, Flutter, Firebase**
 
 - 📫 How to reach me **vishalmaurya9049@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishal_28d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal_28d" height="30" width="40" /></a>
+<a href="https://twitter.com/vishal_28d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_28d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_28d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishal_28d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal_28d" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishal_28dec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal_28d" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vishal_28d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishal_28d" height="30" width="40" /></a>
 <a href="https://discord.gg/vishal_28d#4140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vishal_28d#4140" height="30" width="40" /></a>
 </p>
